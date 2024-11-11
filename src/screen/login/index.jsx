@@ -75,9 +75,9 @@ const Login = () => {
         />
         <Button type='submit' variant='contained'>Login</Button>
       </form>
-      <p>
+      {/* <p>
         don't have an account <Link to={'/signup'}>signup</Link>
-      </p>
+      </p> */}
     </div>
   );
 };
